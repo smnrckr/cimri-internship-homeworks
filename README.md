@@ -46,7 +46,3 @@ go run main.go
 
 ## License
 This repository is open-source and available for educational purposes.
-
----
-
-Bunu doğrudan README olarak ekleyebilirsin. İstersen bazı detayları daha da genişletebilirim. Ne dersin? 😊
