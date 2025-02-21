@@ -1,0 +1,9 @@
+map[https://www.nadirkitap.com:Just a moment...]: 
+map[https://www.cimri.com:Cimri - En son kaça olur?]: 
+map[https://www.hepsiburada.com:Hepsiburada.com | Güvenlik]: 
+map[https://www.amazon.com:Amazon.com]: 
+map[https://www.n11.com:Attention Required! | Cloudflare]: 
+map[https://www.dr.com.tr:]: 
+map[https://www.kitapyurdu.com:Kitapyurdu, Kitapla buluşmanın en kolay yolu]: 
+map[https://www.trendyol.com:Trendyol Online Shop | Top-Mode-Marken & Kostenlose Retoure]: 
+map[https://www.idefix.com:Aradığınız Her Şey Bu Pazaryerinde! | idefix]: 
